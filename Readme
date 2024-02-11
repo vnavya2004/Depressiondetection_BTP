@@ -1,0 +1,17 @@
+mix(multicased,roberta(lstm)) file contains 5 datasets results using Bert(multicased) and 4 datasets results using roberta model. 
+SpanishRoberta file contains Spanish Roberta model results.
+Bangla(multilingual_hugingface) file have results of bangla dataset using huggingface multilingual model.
+Total =11.
+results as below:
+Datasets	      Model_Used	      Accuracy	precision	Recall	F1 score
+1.Arabic Dataset	Multi-cased BERT	0.7688	0.772727	0.7616	0.7671
+2.Bangla Dataset	Multi-cased BERT	0.60878	0.35934	0.7113	0.477489
+3.Japaneese Dataset	Multi-cased BERT	0.788	0.76086	0.84	0.7984
+4.Korean Dataset	Multi-cased BERT	0.86	0.887	0.824	0.8547
+5.Spanish Dataset	Multi-cased BERT	0.839	0.8234	0.875	0.8488
+6.Arabic Dataset	XLM_ROBERTA	0.7916	0.8113	0.76	0.7848
+7.Bangla Dataset	XLM_ROBERTA	0.7732	0.5952	0.3049	0.4032
+8.Japaneese Dataset	XLM_ROBERTA	0.548	0.5455	0.576	0.5603
+9.Korean Dataset	XLM_ROBERTA	0.604	0.565	0.904	0.6954
+10.Spanish Dataset	XLM_ROBERTA	0.8704	0.8559	0.9002	0.8775
+11.Bangla Dataset	Multi-Lingual BERT(pytorch)	0.848825	0.8492	0.8488	0.8486
