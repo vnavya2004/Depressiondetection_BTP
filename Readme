@@ -1,6 +1,6 @@
-mix(multicased,roberta(lstm)) file contains 5 datasets results using Bert(multicased) and 4 datasets results using roberta model. 
-SpanishRoberta file contains Spanish Roberta model results.
-Bangla(multilingual_hugingface) file have results of bangla dataset using huggingface multilingual model.
+* mix(multicased,roberta(lstm)) file contains 5 datasets results using Bert(multicased) and 4 datasets results using roberta model. 
+* SpanishRoberta file contains Spanish Roberta model results.
+* Bangla(multilingual) file have results of bangla dataset using huggingface multilingual model.
 Total =11.
 results as below:
 Datasets	      Model_Used	      Accuracy	precision	Recall	F1 score
