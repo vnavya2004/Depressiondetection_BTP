@@ -17,3 +17,11 @@ Datasets	      Model_Used	      Accuracy	precision	Recall	F1 score
 9.Korean Dataset	XLM_ROBERTA	0.604	0.565	0.904	0.6954
 10.Spanish Dataset	XLM_ROBERTA	0.8704	0.8559	0.9002	0.8775
 11.Bangla Dataset	Multi-Lingual BERT(pytorch)	0.848825	0.8492	0.8488	0.8486
+
+LLAMA2 PREPROCESSING AND USE MULTILINGUAL BERT MODEL 
+
+12.Arabic Dataset	Multi-lingual BERT	0.9764	0.976472	0.9764	0.97639915
+13.Bangla Dataset	Multi-lingual BERT	0.774259448	0.780243061	0.774259448	0.771513741
+14.Japaneese Dataset	Multi-lingual BERT	0.988	0.988288	0.988	0.987998272
+14.Korean Dataset	Multi-lingual BERT	0.964	0.965568	0.964	0.963971754
+16.Spanish Dataset	Multi-lingual BERT				
