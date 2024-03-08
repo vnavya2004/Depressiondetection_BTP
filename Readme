@@ -1,9 +1,9 @@
 * mix(multicased,roberta(lstm)) file contains 5 datasets results using Bert(multicased) and 4 datasets results using roberta model. 
 * SpanishRoberta file contains Spanish Roberta model results.
 * Bangla(multilingual) file have results of bangla dataset using huggingface multilingual model.
-* llama2(multilingual)arabic and korean datasets results(preprocessing using generative ai and multilingual model for training)
-* llama2(multilingual)bangla,japaneese results( same as above)
-* llama2(multilingual)spanish results( same as above)
+* llama2(multilingual)arabic and korean datasets results(preprocessing using generative ai and multilingual model for training)---abcd4(bvcxz20234@gmail.com)
+* llama2(multilingual)bangla,japaneese results( same as above)---gfg882004@gmail.com
+* llama2(multilingual)spanish results( same as above)---abcd5(bvcxz20235@gmail.com)
 Total =11+5=16.
 results as below:
 Datasets	      Model_Used	      Accuracy	precision	Recall	F1 score
