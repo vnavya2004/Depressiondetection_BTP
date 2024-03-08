@@ -4,6 +4,9 @@
 * llama2(multilingual)arabic and korean datasets results(preprocessing using generative ai and multilingual model for training)---abcd4(bvcxz20234@gmail.com)
 * llama2(multilingual)bangla,japaneese results( same as above)---gfg882004@gmail.com
 * llama2(multilingual)spanish results( same as above)---abcd5(bvcxz20235@gmail.com)
+* llama2(XLMROBERTA)_arabic results(llama2,xlmroberta) --- gfg882004@gmail.com
+* llama2(XLMROBERTA)-korean,japaneese results(same) --- abcd3(bvcxz20233@gmail.com)
+* llama2(XLMROBERTA)-bangla results(same) --- abcd2(bvcxz20232@gmail.com)
 Total =11+5=16.
 results as below:
 Datasets	      Model_Used	      Accuracy	precision	Recall	F1 score
